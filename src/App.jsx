@@ -22,6 +22,7 @@ function App() {
       <h1>Hello world</h1>
       {/* <Chai /> */}
 
+      <h2>Mixed value: 6</h2>
       <h2>Counter value: {count}</h2>
       <button onClick={AddValue}>Add Value</button>
       <button onClick={RemoveValue}>Remove Value</button>
